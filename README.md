@@ -98,6 +98,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 **Author:** Manish Kumar  
 **GitHub:** [https://github.com/Man-ishu678](https://github.com/Man-ishu678)  
 **Live Portfolio:** [https://manishkumardevarshetty-portfolio.vercel.app/](https://manishkumardevarshetty-portfolio.vercel.app/)
+
 ---
 
 ⭐ If you like this project, don’t forget to star the repository!
